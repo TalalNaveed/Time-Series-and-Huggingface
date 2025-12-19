@@ -44,7 +44,8 @@ This repository contains a time series forecasting project using a Transformer m
 - **Evaluation Metric:** MSE (~0.267 on test set)  
 - **Visualization:**  
 
-  ![Predictions vs Ground Truth](./example_plot.png)  
+  <img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/20797142-f905-40d3-8d0b-cccf22dcd31d" />
+
 
 - The model predictions follow the overall trend of electricity consumption with some underestimation of spikes.
 
